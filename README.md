@@ -14,7 +14,7 @@ Aplikasi sederhana untuk mengelola kategori buku di perpustakaan menggunakan PHP
 
 ## Struktur Folder
 - `config/`: Berisi koneksi database.
-- - `database/`: Berisi Hasil export database
+- `database/`: Berisi Hasil export database
 - `index.php`: Menampilkan daftar kategori.
 - `create.php`: Form tambah kategori.
 - `edit.php`: Form edit kategori.
