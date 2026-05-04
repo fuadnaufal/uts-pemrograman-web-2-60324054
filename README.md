@@ -1,0 +1,20 @@
+# UTS Pemrograman Web 2 
+
+**Nama:** [Fuad Naufal Ihsan]  
+**NIM:** [60324054]
+
+## Deskripsi Aplikasi
+Aplikasi sederhana untuk mengelola kategori buku di perpustakaan menggunakan PHP dan MySQL.
+
+## Cara Instalasi
+1. Clone repository ini.
+2. Import file `database/database_backup.sql` ke MySQL Anda.
+3. Sesuaikan konfigurasi database di `config/database.php`.
+4. Jalankan melalui local server (XAMPP/Laragon).
+
+## Struktur Folder
+- `config/`: Berisi koneksi database.
+- `index.php`: Menampilkan daftar kategori.
+- `create.php`: Form tambah kategori.
+- `edit.php`: Form edit kategori.
+- `delete.php`: Logika penghapusan data.
