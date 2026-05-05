@@ -8,7 +8,7 @@ Aplikasi sederhana untuk mengelola kategori buku di perpustakaan menggunakan PHP
 
 ## Cara Instalasi
 1. Clone repository ini.
-2. Import file `database/database_backup.sql` ke MySQL Anda.
+2. Import file `uts_perpustakaan__60324054_.sql` ke MySQL.
 3. Sesuaikan konfigurasi database di `config/database.php`.
 4. Jalankan melalui local server (XAMPP/Laragon).
 
